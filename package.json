@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass FestivalMusica_inicio/src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biacuya/FestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Erik Molina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biacuya/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/Biacuya/FestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.52.1"
+  }
+}
